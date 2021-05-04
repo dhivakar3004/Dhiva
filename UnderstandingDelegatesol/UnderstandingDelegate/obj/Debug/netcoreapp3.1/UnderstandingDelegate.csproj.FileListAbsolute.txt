@@ -1,0 +1,13 @@
+D:\Training\UnderstandingDelegatesol\UnderstandingDelegate\bin\Debug\netcoreapp3.1\UnderstandingDelegate.exe
+D:\Training\UnderstandingDelegatesol\UnderstandingDelegate\bin\Debug\netcoreapp3.1\UnderstandingDelegate.deps.json
+D:\Training\UnderstandingDelegatesol\UnderstandingDelegate\bin\Debug\netcoreapp3.1\UnderstandingDelegate.runtimeconfig.json
+D:\Training\UnderstandingDelegatesol\UnderstandingDelegate\bin\Debug\netcoreapp3.1\UnderstandingDelegate.runtimeconfig.dev.json
+D:\Training\UnderstandingDelegatesol\UnderstandingDelegate\bin\Debug\netcoreapp3.1\UnderstandingDelegate.dll
+D:\Training\UnderstandingDelegatesol\UnderstandingDelegate\bin\Debug\netcoreapp3.1\UnderstandingDelegate.pdb
+D:\Training\UnderstandingDelegatesol\UnderstandingDelegate\obj\Debug\netcoreapp3.1\UnderstandingDelegate.csprojAssemblyReference.cache
+D:\Training\UnderstandingDelegatesol\UnderstandingDelegate\obj\Debug\netcoreapp3.1\UnderstandingDelegate.AssemblyInfoInputs.cache
+D:\Training\UnderstandingDelegatesol\UnderstandingDelegate\obj\Debug\netcoreapp3.1\UnderstandingDelegate.AssemblyInfo.cs
+D:\Training\UnderstandingDelegatesol\UnderstandingDelegate\obj\Debug\netcoreapp3.1\UnderstandingDelegate.csproj.CoreCompileInputs.cache
+D:\Training\UnderstandingDelegatesol\UnderstandingDelegate\obj\Debug\netcoreapp3.1\UnderstandingDelegate.dll
+D:\Training\UnderstandingDelegatesol\UnderstandingDelegate\obj\Debug\netcoreapp3.1\UnderstandingDelegate.pdb
+D:\Training\UnderstandingDelegatesol\UnderstandingDelegate\obj\Debug\netcoreapp3.1\UnderstandingDelegate.genruntimeconfig.cache

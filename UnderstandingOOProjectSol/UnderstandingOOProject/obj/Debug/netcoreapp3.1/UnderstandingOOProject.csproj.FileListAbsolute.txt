@@ -1,0 +1,13 @@
+D:\Training\UnderstandingOOProjectSol\UnderstandingOOProject\bin\Debug\netcoreapp3.1\UnderstandingOOProject.exe
+D:\Training\UnderstandingOOProjectSol\UnderstandingOOProject\bin\Debug\netcoreapp3.1\UnderstandingOOProject.deps.json
+D:\Training\UnderstandingOOProjectSol\UnderstandingOOProject\bin\Debug\netcoreapp3.1\UnderstandingOOProject.runtimeconfig.json
+D:\Training\UnderstandingOOProjectSol\UnderstandingOOProject\bin\Debug\netcoreapp3.1\UnderstandingOOProject.runtimeconfig.dev.json
+D:\Training\UnderstandingOOProjectSol\UnderstandingOOProject\bin\Debug\netcoreapp3.1\UnderstandingOOProject.dll
+D:\Training\UnderstandingOOProjectSol\UnderstandingOOProject\bin\Debug\netcoreapp3.1\UnderstandingOOProject.pdb
+D:\Training\UnderstandingOOProjectSol\UnderstandingOOProject\obj\Debug\netcoreapp3.1\UnderstandingOOProject.csprojAssemblyReference.cache
+D:\Training\UnderstandingOOProjectSol\UnderstandingOOProject\obj\Debug\netcoreapp3.1\UnderstandingOOProject.AssemblyInfoInputs.cache
+D:\Training\UnderstandingOOProjectSol\UnderstandingOOProject\obj\Debug\netcoreapp3.1\UnderstandingOOProject.AssemblyInfo.cs
+D:\Training\UnderstandingOOProjectSol\UnderstandingOOProject\obj\Debug\netcoreapp3.1\UnderstandingOOProject.csproj.CoreCompileInputs.cache
+D:\Training\UnderstandingOOProjectSol\UnderstandingOOProject\obj\Debug\netcoreapp3.1\UnderstandingOOProject.dll
+D:\Training\UnderstandingOOProjectSol\UnderstandingOOProject\obj\Debug\netcoreapp3.1\UnderstandingOOProject.pdb
+D:\Training\UnderstandingOOProjectSol\UnderstandingOOProject\obj\Debug\netcoreapp3.1\UnderstandingOOProject.genruntimeconfig.cache
