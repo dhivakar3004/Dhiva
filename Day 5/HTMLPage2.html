@@ -1,0 +1,87 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Cow Bull task</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <style>
+        body {
+            background-color: aqua;
+            border-style: double;
+            border-width: 6px;
+            margin: 20px;
+        }
+
+        #div1 {
+        }
+
+        .hide {
+            display: none;
+        }
+
+        .show {
+            display: block;
+        }
+    </style>
+
+
+    <script>
+        function myFunction() {
+            document.getElementById("inputTxt").disabled = true;
+            document.getElementById("scnd").className = "show";
+        }
+        function myFunction1() {
+            var msg = document.getElementById("inputTxt").value;
+            var msg1 = document.getElementById("inputTxt1").value;
+            inputTxt1.classList.add("border");
+            if (msg.length == msg1.length) {
+                inputTxt1.classList.remove("border-danger");
+                inputTxt1.classList.add("border-success");
+                var bull = 0;
+                var cow = 0;
+                for (i = 0; i < msg.length; i++) {
+                    if (msg[i] == msg1[i]) {
+                        cow += 1;
+                    }
+                    else {
+                        for (j = 0; j < msg.length; j++) {
+                            if (msg[i] == msg1[j] && i != j) {
+                                bull += 1;
+
+                            }
+                        }
+                    }
+                }
+                document.getElementById("errMsg1").innerHTML = cow + "COW" + bull + "BULL";
+                if (cow == msg.length) {
+                    document.getElementById("winMsg").innerHTML = "User Wins";
+                }
+            } else {
+                inputTxt1.classList.add("border-danger");
+                document.getElementById("errMsg1").innerHTML = " Must enter " + msg.length + "letter a word"
+            }
+
+        }
+    </script>
+</head>
+<body class="text-center">
+    <section class="container">
+        <h1>Cow and Bull game</h1>
+    </section>
+    <section class="container">
+        <div id="div1" class="input-group firstBox">
+            <input type="text" id="inputTxt" placeholder="enter a 1st input" />
+            <button type="submit" class="btn btn-primary" onclick="myFunction()">Submit</button>
+        </div>
+
+        <div id="scnd" class="input-group hide">
+            <input type="text" id="inputTxt1" placeholder="guess the word" />
+
+            <button type="submit" class="btn btn-primary" onclick="myFunction1()">Check</button>
+            <span id="errMsg1"></span><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+            <mark><span id="winMsg"></span></mark>
+        </div>
+
+</body>
+</html>

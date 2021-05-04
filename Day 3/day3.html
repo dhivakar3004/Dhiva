@@ -1,0 +1,98 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>ABOUT ME</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <link href="StyleSheet1.css" rel="stylesheet"
+    
+</head>
+
+
+<body data-spy="scroll" data-target="#myScrollspy" data-offset="1">
+    
+    <div class="container-fluid">
+        <div class="row">
+            <nav class="col-sm-3 col-4" id="myScrollspy">
+                <ul class="nav nav-pills flex-column">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="#section1">INFO</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#section2">STUDIES</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#section3">INTEREST</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">PROJECT</a>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href="#section4a">PROJECT 1</a>
+                            <a class="dropdown-item" href="#section4b">PROJECT 2</a>
+                        </div>
+                    </li>
+                </ul>
+            </nav>
+            <div class="col-sm-9 col-8">
+                <div id="section1" class="bg-info">
+                    <h1>INFO</h1>
+                    <p>
+                        <img src="photo.png" width="75" height="75">
+                        <h3> Name: Dhivakar P</h3>
+                        
+
+                    </p>
+                </div>
+                <div id="section2" class="bg-info">
+                    <h1>STUDIES</h1>
+                    <p>
+                        
+                        <div class="container">
+
+                            <a href="#" title="SCHOOLS" data-toggle="popover" data-trigger="focus" data-content="1.ST.LITTLE FLOWER 2.SRV MATRIC"><h2>SCHOOL</h2></a>
+                            <br />
+                            <br />
+                            <a href="#" title="COLLEGE" data-toggle="popover" data-trigger="focus" data-content="SRI VENKATESWARA COLLEGE "><h2>COLLEGE</h2></a>
+                        </div>
+
+                        <script>
+                            $(document).ready(function () {
+                                $('[data-toggle="popover"]').popover();
+                            });
+                        </script>
+                    </p>
+                </div>
+                <div id="section3" class="bg-info">
+                    <h1>INTEREST</h1>
+                    <p>
+                        <ol>
+                            <li> <h4>Music</h4> </li>
+                            <li> <h4>Cricket</h4> </li>
+                        </ol>
+                    </p>
+
+                </div>
+                <div id="section4a" class="bg-info">
+                    <h1>PROJECT 1</h1>
+                    <p><h4>Prevention of Accient in Hair Pin Bends </h4></p>
+                </div>
+                <div id="section4b" class="bg-info">
+                    <h1>PROJECT 2</h1>
+                    <p><h4>Control of High Short Circuit Current using Current Limiting Reactor</h4> </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div>
+        
+        <div class="card-header" >
+            
+        </div>
+    </div>
+</body>
+</html>
