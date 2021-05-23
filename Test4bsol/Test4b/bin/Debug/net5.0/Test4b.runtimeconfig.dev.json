@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\RELIANCE\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\RELIANCE\\.nuget\\packages"
+    ]
+  }
+}
